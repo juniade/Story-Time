@@ -1,0 +1,12 @@
+.font,p,button,div,th,td{
+    font-size:14px;
+}
+.content{
+    font-size:12px;
+}
+.div_hover{
+    background-color:white;
+}
+.div_hover:hover{
+    background-color:lightgray;
+}

@@ -1,0 +1,3 @@
+<template>
+    <ProfilCreateStory></ProfilCreateStory>
+</template>
